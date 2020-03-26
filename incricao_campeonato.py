@@ -7,7 +7,7 @@ if Idade >= 18:
     print("\nParabéns, sua inscrição foi finalizada aluno {}!".format(RM))
     print ("\nEnviamos mais informações no seu email de cadastro.")
 else:
-    autorizacao = input("\nVocê é menor de idade, você possuí autorização do seu responsável legal? (Sim ou Não): ")
+    autorizacao = input("\nVocê é menor de idade, você possui autorização do seu responsável legal? (Sim ou Não): ")
     autorizacao = autorizacao.lower()
     if autorizacao == "sim":
         print("\nParabéns, sua inscrição foi finalizada aluno {}!".format(RM))
