@@ -1,4 +1,5 @@
 from calc import somar, subtrair, multiplicar, dividir
+#Para importar todas as funções é possível utilizar from calc import *
 
 valor1 = float(input("Digite um valor: "))
 valor2 = float(input("Digite outro valor: "))
