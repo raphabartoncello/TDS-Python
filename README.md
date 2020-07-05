@@ -1,6 +1,6 @@
 
 
-<h1><img src="./img/TDS.PNG" height="45" width="45"> TDS - FIAP: Exercícios de desenvolvimento em Python </h1>
+<h1><img src="./img/FIAP.jpg" height="45" width="45"> TDS - FIAP: Exercícios de desenvolvimento em Python </h1>
 
 <h2>Soluções</h2>
 
